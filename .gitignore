@@ -1,0 +1,20 @@
+## .NET build outputs
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+.vs/
+
+## Database files (generated at runtime)
+*.db
+*.db-shm
+*.db-wal
+
+## Secrets / configuration
+appsettings.Development.json
+
+## OS files
+.DS_Store
+Thumbs.db
